@@ -7,10 +7,18 @@
 
 >| Year          | Web Chess elo | 
 >| ------------- |:-------------:| 
->| col 3 is      | right-aligned | 
->| col 2 is      | centered      |   
+>|  2019         |    581        | 
+>|  2020         |    691        |   
+>|  2021         |    1407       | 
+>|  2022         |    1661       |   
+>|  2023         |    2023       | 
+
+This is a cool table of my chess progression over the years!
 
 >https://www.chess.com/home
+
+https://www.chess.com/member/thebeginnerbros
+This is my profile.
 
 >Thank you so much! Best regards, Hamza Bustami :smile:
 
