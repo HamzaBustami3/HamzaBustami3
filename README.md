@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hello everyone! 👋
 
-My name is Hamza Bustami and I am a high-schooler that has a fancy for the performing arts, especially music and specifically Piano. I also love to play chess. I have three children, one of which is a paddle-tennis prodigy
+![Greetings And Salutations!][https://www.soundbrenner.com/wp-content/uploads/2021/08/jazz.jpeg]
+
+My name is Hamza Bustami and I am a high-schooler that has a fancy for the performing arts, especially music and specifically Piano. I also love to play chess. I have three children, one of which is a paddle-tennis prodigy! *just kidding 
+I grew up in Saudi Arabia [Flag: Saudi Arabia on Apple] I lived there for the first thirteen years of my life, and recently moved to Jordan, *a year ago* and I have been attending The American Community School of Amman ever since.
+
+Thank you so much! Best regards, Hamza Bustami
+
 <!--
 **HamzaBustami3/HamzaBustami3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.soundbrenner.com/wp-content/uploads/2021/08/jazz.jpeg
+
